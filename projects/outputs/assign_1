@@ -30,7 +30,11 @@ output :
 
 
 
+
+
 condition : 다음 함수들 및 변수를 사용하시오
+
+void order(); // 주문의 전과정을 시행시키는 함수;
 
 void input(int X); // 주문을 받음
 
